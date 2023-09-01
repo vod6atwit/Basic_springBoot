@@ -2,6 +2,7 @@
 
 - Spring Boot Overview
 - Spring Boot Initialzr
+- Basic Spring Boot Framework
 - Created REST Controller
 - What is Maven?
 - Maven Project Structure
